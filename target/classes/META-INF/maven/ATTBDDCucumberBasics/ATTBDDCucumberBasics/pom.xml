@@ -63,7 +63,7 @@
   
   <build>
 	  <!-- Build name is defined using this below tag   -->
-	  <finalName>cucumbertest-docker</finalName> <!-- this name added to understand whether jar file create or not -->
+	  <finalName>cucumbertestexecution-docker</finalName> <!-- this name added to understand whether jar file create or not -->
       <plugins>		  
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
